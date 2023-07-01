@@ -1,0 +1,51 @@
+{
+    "skills": [
+            {
+                "title" : "HTML",
+                "levels" : "Intermediate",
+                "img" : ""
+            },
+            {
+                "title" : "CSS",
+                "levels" : "Intermediate",
+                "img" : ""
+            },
+            {
+                "title" : "BOOTSTRAP",
+                "levels" : "Intermediate",
+                "img" : ""
+            },
+            {
+                "title" : "JAVASCRIPT",
+                "levels" : "Beginner",
+                "img" : ""
+            },
+            {
+                "title" : "VUE 3",
+                "levels" : "Beginner",
+                "img" : ""
+            }
+    ],
+    "education": [
+       {
+        "place" : "Eros High School",
+        "year" : "2017-2022",
+        "img" : ""
+       },
+       {
+        "place" : "Life Choices Academy",
+        "year" : "2023",
+        "img" : ""
+       }
+    ],
+    "projects": [
+          {
+            "title" : "Sign Up & Login",
+            "description" : "This was a group project and i was tasked to create sign up and login page",
+            "github" : ""
+          }
+    ],
+     "testimonials": [
+           {}
+     ]
+}
