@@ -3,49 +3,103 @@
             {
                 "title" : "HTML",
                 "levels" : "Intermediate",
-                "img" : ""
+                "img" : "https://i.postimg.cc/dVMRCP8L/html.png"
             },
             {
                 "title" : "CSS",
                 "levels" : "Intermediate",
-                "img" : ""
+                "img" : "https://i.postimg.cc/76QD94P8/pngegg-3.png"
             },
             {
                 "title" : "BOOTSTRAP",
                 "levels" : "Intermediate",
-                "img" : ""
+                "img" : "https://i.postimg.cc/wvh7RMdB/bootstrap.png"
             },
             {
                 "title" : "JAVASCRIPT",
                 "levels" : "Beginner",
-                "img" : ""
+                "img" : "https://i.postimg.cc/6pQkHSSB/pngegg-5.png"
             },
             {
                 "title" : "VUE 3",
                 "levels" : "Beginner",
-                "img" : ""
+                "img" : "https://i.postimg.cc/gJytcq5M/pngegg-6.png"
             }
     ],
     "education": [
        {
         "place" : "Eros High School",
         "year" : "2017-2022",
-        "img" : ""
+        "img" : "https://i.postimg.cc/527HH6Db/Eros-High-Img.jpg"
        },
        {
         "place" : "Life Choices Academy",
         "year" : "2023",
-        "img" : ""
+        "img" : "https://i.postimg.cc/RhD8611w/Life-Choices-Img.jpg"
        }
     ],
     "projects": [
           {
             "title" : "Sign Up & Login",
             "description" : "This was a group project and i was tasked to create sign up and login page",
-            "github" : ""
+            "github" : "https://github.com/Imtiyaaz-D/Mavericks",
+            "netlify" : "https://soft-nasturtium-3523bb.netlify.app/"
+          },
+          {
+            "title" : "BMI Calculator",
+            "description" : "This project i had to create a function to add weight and height to get BMI",
+            "github" : "https://github.com/Ziaaaaaaaaaaaa/BMI-calculator-js.git",
+            "netlify" : "https://sparkly-fairy-8c1d1b.netlify.app/"
+          },
+          {
+            "title" : "To Do List",
+            "description" : "This project i had to make a funtion to add things to my to do list",
+            "github" : "https://github.com/Ziaaaaaaaaaaaa/To-Do-List-Challenge.git",
+            "netlify" : "https://papaya-treacle-363473.netlify.app/"
+          },
+          {
+            "title" : "My First Portfolio",
+            "description" : "This project i had to make a portfolio",
+            "github" : "https://github.com/Ziaaaaaaaaaaaa/end-module.git",
+            "netlify" : "https://peppy-alfajores-6faac2.netlify.app"
+          },
+          {
+            "title" : "Ecommerce Website",
+            "description" : "This project i had to use Javascript",
+            "github" : "https://github.com/Ziaaaaaaaaaaaa/End-Module-Project-eCcomerce.git",
+            "netlify" : "https://warm-duckanoo-285126.netlify.app"
           }
     ],
      "testimonials": [
-           {}
+           {
+            "img" : "https://i.postimg.cc/jd8NfgJp/C12-Justin-Scholtz-2-min.jpg",
+            "name" : "Justin Scholz",
+            "text" : "From the first day I met Zia he was a vey quiet person and kept to himself, but as time went on I've noticed how he came out of his shell which showed me that he is not afraid to come out his comfort zone and adapt to the environment around him which is a very good quality of Zia. Once his mind is set on something then he is very determined to accomplish it and I admire that about him. Definitely the type of person I would want on my team!"
+           },
+           {
+            "img" : "https://i.postimg.cc/HxX9WbWv/Imraan-1.jpg",
+            "name" : "Imraan Bernksen",
+            "text" : "Zia is a very punctual person, always on time. He is a very passionate person on the things he loves to do and friendly which allows him adapt in group projects. His ideas are unique and creative. Always keen to learn, obtain new skills and not afraid for ask for help."
+           },
+           {
+            "img" : "https://i.postimg.cc/Vs0LgKpy/20230509-171206.jpg",
+            "name" : "Summer De Wet",
+            "text" : "Zia is a very dedicated person and always tries his best for everything that he does. He works very hard to get things done and doesnt stop until the task is completed. He is very friendly and always tries his best. I would definitely recommend him because he will be an asset to the team."
+           },
+           {
+            "img" : "https://i.postimg.cc/Bb230VfX/lee.jpg",
+            "name" : "Lithini Skhikhi",
+            "text" : "Zia is very patient and hardworking person he would be an asset to any team . He has a caring and devoted nature . He is a very persistent person and takes pride in his work . he is a extremely focused and goal driven ."
+           },
+           {
+            "img" : "https://i.postimg.cc/65zSvXcB/FB-IMG-1655905446197.jpg",
+            "name" : "Abdul-Azeez Kemp",
+            "text" : "An absolute great guy, hard worker and a goal driven personality. Always takes on the next challenge that comes to him and knows how to communicate with his peers."
+           },
+           {
+            "img" : "",
+            "name" : "",
+            "text" : ""
+           }
      ]
 }
