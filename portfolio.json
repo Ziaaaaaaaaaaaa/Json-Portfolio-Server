@@ -40,30 +40,35 @@
     ],
     "projects": [
           {
+            "img" : "https://i.postimg.cc/R0VnZ2d6/Screenshot-2023-07-03-123406.png",
             "title" : "Sign Up & Login",
             "description" : "This was a group project and i was tasked to create sign up and login page",
             "github" : "https://github.com/Imtiyaaz-D/Mavericks",
             "netlify" : "https://soft-nasturtium-3523bb.netlify.app/"
           },
           {
+            "img" : "https://i.postimg.cc/pL7tmFYf/Screenshot-2023-07-03-123628.png",
             "title" : "BMI Calculator",
             "description" : "This project i had to create a function to add weight and height to get BMI",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/BMI-calculator-js.git",
             "netlify" : "https://sparkly-fairy-8c1d1b.netlify.app/"
           },
           {
+            "img" : "https://i.postimg.cc/Pr96Zz95/Screenshot-2023-07-03-123756.png",
             "title" : "To Do List",
             "description" : "This project i had to make a funtion to add things to my to do list",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/To-Do-List-Challenge.git",
             "netlify" : "https://papaya-treacle-363473.netlify.app/"
           },
           {
+            "img" : "https://i.postimg.cc/15hB35q8/Screenshot-2023-07-03-123903.png",
             "title" : "My First Portfolio",
             "description" : "This project i had to make a portfolio",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/end-module.git",
             "netlify" : "https://peppy-alfajores-6faac2.netlify.app"
           },
           {
+            "img" : "https://i.postimg.cc/J4F1kvRH/Screenshot-2023-07-03-124002.png",
             "title" : "Ecommerce Website",
             "description" : "This project i had to use Javascript",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/End-Module-Project-eCcomerce.git",
