@@ -42,37 +42,44 @@
           {
             "img" : "https://i.postimg.cc/R0VnZ2d6/Screenshot-2023-07-03-123406.png",
             "title" : "Sign Up & Login",
-            "description" : "This was a group project and i was tasked to create sign up and login page",
+            "description" : "This was a group project and i was tasked to create sign up and login page.",
             "github" : "https://github.com/Imtiyaaz-D/Mavericks",
             "netlify" : "https://soft-nasturtium-3523bb.netlify.app/"
           },
           {
             "img" : "https://i.postimg.cc/pL7tmFYf/Screenshot-2023-07-03-123628.png",
             "title" : "BMI Calculator",
-            "description" : "This project i had to create a function to add weight and height to get BMI",
+            "description" : "This project i had to create a function to add weight and height to get BMI.",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/BMI-calculator-js.git",
             "netlify" : "https://sparkly-fairy-8c1d1b.netlify.app/"
           },
           {
             "img" : "https://i.postimg.cc/Pr96Zz95/Screenshot-2023-07-03-123756.png",
             "title" : "To Do List",
-            "description" : "This project i had to make a funtion to add things to my to do list",
+            "description" : "This project i had to make a funtion to add things to my to do list.",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/To-Do-List-Challenge.git",
             "netlify" : "https://papaya-treacle-363473.netlify.app/"
           },
           {
             "img" : "https://i.postimg.cc/15hB35q8/Screenshot-2023-07-03-123903.png",
             "title" : "My First Portfolio",
-            "description" : "This project i had to make a portfolio",
+            "description" : "This project i had to make a portfolio.",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/end-module.git",
             "netlify" : "https://peppy-alfajores-6faac2.netlify.app"
           },
           {
             "img" : "https://i.postimg.cc/J4F1kvRH/Screenshot-2023-07-03-124002.png",
             "title" : "Ecommerce Website",
-            "description" : "This project i had to use Javascript",
+            "description" : "This project i had to use Javascript.",
             "github" : "https://github.com/Ziaaaaaaaaaaaa/End-Module-Project-eCcomerce.git",
             "netlify" : "https://warm-duckanoo-285126.netlify.app"
+          },
+          {
+            "img" : "https://i.postimg.cc/7Yf1xJFz/Screenshot-2023-07-06-092128.png",
+            "title" : "Vue Ecommerce Website",
+            "description" : "This project i had to make an Ecommerce website with vue.",
+            "github" : "https://github.com/Ziaaaaaaaaaaaa/Ecommerce-vue-project.git",
+            "netlify" : "https://cerulean-nasturtium-67943b.netlify.app"
           }
     ],
      "testimonials": [
@@ -102,9 +109,9 @@
             "text" : "An absolute great guy, hard worker and a goal driven personality. Always takes on the next challenge that comes to him and knows how to communicate with his peers."
            },
            {
-            "img" : "",
-            "name" : "",
-            "text" : ""
+            "img" : "https://i.postimg.cc/Twxg0MbT/90928282-1613696178782933-8697521963691671552-n.jpg",
+            "name" : "Jason Viljoen",
+            "text" : "Zia is an exceptionally bright individual, always coming up with fresh, new and intuitive ideas. He is constantly on his game when it comes to solving problems and finding solutions. For the 6 months that I have worked with him he shown great promise and and potential, always working hard and trying his best to learn and take in as much as he can."
            }
      ]
 }
